@@ -2,6 +2,8 @@
 A python script that works with Terraform to create a new VM in Proxmox
 
 # How to use it
+- Check this post first: https://andreypicado.com/create-a-virtual-machine-in-proxmox-with-terraform-and-python/
+
 - The following things a required for this script to work:
   - A Proxmox instance with an .iso located in one of the storage containers
   - Python 3.9.14
